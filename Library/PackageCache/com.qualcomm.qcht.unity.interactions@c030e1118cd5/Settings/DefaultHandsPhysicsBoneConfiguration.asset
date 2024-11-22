@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4efe708aff34d99b409f2d43944b424, type: 3}
+  m_Name: DefaultHandsPhysicsBoneConfiguration
+  m_EditorClassIdentifier: 
+  UseGravity: 0
+  RigidbodyMass: 10
+  RigidbodyDrag: 0
+  RigidbodyAngularDrag: 0
+  CollisionDetectionMode: 1
+  JointMassScale: 1
+  JointConnectedMassScale: 1
+  LinearMotion: 2
+  MotionDrive:
+    Spring: 1e+10
+    Damper: 0
+    MaxForce: 500
+  AngularMotion: 2
+  AngularDrive:
+    Spring: 1e+10
+    Damper: 0
+    MaxForce: 500
+  ProjectionMode: 0
+  RotationDriveMode: 1
+  AutoConfigureConnectedAnchor: 0
+  EnableCollision: 0
+  EnablePreprocessing: 0

@@ -1,14 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snapdragon.Spaces.Samples", "Snapdragon.Spaces.Samples.csproj", "{C81B5455-5761-1B11-CE95-CFD4085C03DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{BE51EA62-0249-596E-0E95-105D0E4CBDFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{C81B5455-5761-1B11-CE95-CFD4085C03DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81B5455-5761-1B11-CE95-CFD4085C03DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81B5455-5761-1B11-CE95-CFD4085C03DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81B5455-5761-1B11-CE95-CFD4085C03DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE51EA62-0249-596E-0E95-105D0E4CBDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE51EA62-0249-596E-0E95-105D0E4CBDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE51EA62-0249-596E-0E95-105D0E4CBDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE51EA62-0249-596E-0E95-105D0E4CBDFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

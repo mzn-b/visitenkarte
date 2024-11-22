@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.qualcomm.qcht.unity.interactions": {
+      "tarball": {
+        "hash": "c030e1118cd5",
+        "mtime": 1732207533299,
+        "size": 10991631,
+        "localPath": "C:\\FH\\fhcw\\SEM1\\ASD\\visitenkarte\\Packages\\com.qualcomm.qcht.unity.interactions-4.1.12.tgz"
+      }
+    },
+    "com.qualcomm.snapdragon.spaces": {
+      "tarball": {
+        "hash": "4b2cc1576e34",
+        "mtime": 1732207533627,
+        "size": 11349499,
+        "localPath": "C:\\FH\\fhcw\\SEM1\\ASD\\visitenkarte\\Packages\\com.qualcomm.snapdragon.spaces-1.0.1.tgz"
+      }
+    }
+  }
+}

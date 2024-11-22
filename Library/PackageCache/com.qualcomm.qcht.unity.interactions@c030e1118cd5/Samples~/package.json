@@ -1,0 +1,25 @@
+{
+  "name": "com.qualcomm.qcht.unity.interactions.samples",
+  "displayName": "QCHT Unity Interactions Samples",
+  "description": "Qualcomm Hand Tracking interactions package samples.",
+  "version": "4.1.12",
+  "unity": "2021.3",
+  "unityRelease": "18f1",
+  "type": "samples",
+  "documentationUrl": "https://docs.spaces.qualcomm.com/unity/handtracking/ExtendedHandTrackingSample.html",
+  "changelogUrl": "https://docs.spaces.qualcomm.com/common/about/CHANGELOG.html",
+  "licensesUrl": "NOTICE.txt",
+  "license": "See NOTICE.txt",
+  "author": {
+    "name": "Qualcomm Technologies, Inc"
+  },
+  "keywords": [
+    "Qualcomm",
+    "Unity",
+    "Interactions",
+    "QCHT"
+  ],
+  "dependencies": {
+    "com.qualcomm.qcht.unity.interactions": "4.1.12"
+  }
+}
