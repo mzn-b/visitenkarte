@@ -206,9 +206,9 @@ MonoBehaviour:
   priority: 0
   required: 0
   DirectMemoryAccessConversion: 0
-  CpuFrameCacheSize: 4
-  HighPriorityAsyncConversion: 0
-  CacheFrameBeforeAsyncConversion: 0
+  CpuFrameCacheSize: 8
+  HighPriorityAsyncConversion: 1
+  CacheFrameBeforeAsyncConversion: 1
 --- !u!114 &-7990419908283114447
 MonoBehaviour:
   m_ObjectHideFlags: 0
