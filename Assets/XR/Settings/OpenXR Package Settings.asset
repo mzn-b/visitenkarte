@@ -1212,4 +1212,4 @@ MonoBehaviour:
   company: Qualcomm
   priority: 0
   required: 1
-  ValidateOpenScene: 1
+  ValidateOpenScene: 0
